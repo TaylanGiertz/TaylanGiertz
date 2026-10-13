@@ -1,6 +1,6 @@
 # Hello, I'm Taylan
 
-Aspiring Cyber Security Analyst, Recent Graduate of Certificate IV in Cyber Security - Currently open to work and studying for CCNA.
+Aspiring IT / Cyber Security Analyst, Graduate of Certificate IV in Cyber Security - Currently studying for CCNA.
 
 <a href="https://linkedin.com/in/taylan-g"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
